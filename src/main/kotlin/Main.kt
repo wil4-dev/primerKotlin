@@ -1,5 +1,6 @@
 // @autor : Wilson LLivicura - M4A
 // mensaje de confirmación desde el editor de github
+// mensaje final desde intellij en local, el uso de git fue exitoso
 
 fun main(args: Array<String>) {
     val resultadoLista = ordenarElementos()
