@@ -1,5 +1,5 @@
 // @autor : Wilson LLivicura - M4A
-// mensaje de prueba desde el editor de github
+// mensaje de confirmación desde el editor de github
 
 fun main(args: Array<String>) {
     val resultadoLista = ordenarElementos()
